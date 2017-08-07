@@ -31,6 +31,6 @@ clf = clf.fit(X,Y)
 
 prediction = clf.predict([[154,54,37]])
 
-# Run predictions
+# Run prediction
 
 print prediction
